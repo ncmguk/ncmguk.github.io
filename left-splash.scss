@@ -7,6 +7,10 @@
 /* Remove box shadow from your splash image */
 img.align-splash-page-image-left {
   box-shadow: none !important;
+  background: none !important;
+  border: none !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
 }
 
 .splash img.align-splash-page-image-left {
