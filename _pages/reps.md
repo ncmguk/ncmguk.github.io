@@ -22,14 +22,14 @@ These regions are:
 
 ### Current Members of the National Executive
 
-- **Chair:** Stuart Purcell  
-  *Rotherham Metropolitan Borough Council – Yorkshire & Humberside Group*
+- **Chair:** Helen Wyatt  
+  *Devon County Council – South West Group*
 
-- **Vice Chair:** Helen Wyatt  
-  *Devon County Council - South West Group*
+- **Vice Chair:** Mark Smeed 
+  *Bromley Council - London Group*
 
 - **Treasurer:** Angela Esslinger  
   *Lancashire County Council – North West Group*
 
-- **Group Co-ordinator:** Mark Smeed  
-  *Bromley Council - London Group*
+- **Group Co-ordinator:** Andrea McGuire  
+  *Liverpool City Council - North West Group*
