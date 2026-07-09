@@ -25,7 +25,7 @@ These regions are:
 - **Chair:** Helen Wyatt  
   *Devon County Council – South West Group*
 
-- **Vice Chair:** Mark Smeed 
+- **Vice Chair:** Mark Smeed  
   *Bromley Council - London Group*
 
 - **Treasurer:** Angela Esslinger  
