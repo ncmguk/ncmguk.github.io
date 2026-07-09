@@ -5,7 +5,7 @@ title: "Representatives of NCMG"
 author_profile: false
 ---
 
-## Representatives attending NCMG
+## Representatives attending NCMG.
 
 Representatives attending NCMG are drawn from eight regional complaints managers’ groups, who collectively represent in excess of 150 local authorities throughout England.
 
