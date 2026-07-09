@@ -21,8 +21,8 @@ The NCMG (National Complaints Managers' Group) aims to provide vital support to 
 
 For more information about our work or details on our meetings, please contact:
 
-Stuart Purcell  
+Helen Wyatt  
 Chair, NCMG  
-Email: [Stuart.Purcell@rotherham.gov.uk](mailto:Stuart.Purcell@rotherham.gov.uk)
+Email: [Helen.Wyatt@devon.gov.uk](mailto:Helen.Wyatt@devon.gov.uk)
 
 Or search for us at NCMG on [Khub.net](https://Khub.net).
