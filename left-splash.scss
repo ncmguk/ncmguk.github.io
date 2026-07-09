@@ -1,3 +1,14 @@
+/* Remove all theme shadows from image wrappers */
+figure,
+figure img,
+.image-wrapper,
+.page__content img,
+.page__hero-image,
+.page__hero--overlay img,
+.splash img {
+  box-shadow: none !important;
+}
+
 .left-splash {
   display: flex;
   align-items: flex-start; // Align items at the start (top) of the flex container
